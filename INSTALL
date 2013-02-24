@@ -1,0 +1,5 @@
+Run this:
+
+virtualenv develop
+source develop/bin/activate
+pip install -U bottle python-dateutil webtest nose
