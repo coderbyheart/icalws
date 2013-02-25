@@ -8,7 +8,7 @@ If you look at [it's source](https://github.com/paxan/python-dateutil/blob/patch
 
 ## Usage
 
-See tests.py
+See [tests.py](tests.py)
 
 ## Installation
 
