@@ -13,3 +13,7 @@ See tests.py
 ## Installation
 
 See INSTALL
+
+## Public Webservice
+
+You'll find a public instance of this webservice at: http://icalws.coderbyheart.de/nextdates
