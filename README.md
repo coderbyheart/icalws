@@ -10,7 +10,7 @@ you'll know why.
 
 ## Installation
 
-See INSTALL
+See [INSTALL](INSTALL)
 
 ## Usage
 
