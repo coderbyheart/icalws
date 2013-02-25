@@ -8,4 +8,4 @@ os.chdir(os.path.dirname(__file__))
 
 import icalws # This loads your application
 
-application = bottle.default_app()
+application = icalws.icalws_app
